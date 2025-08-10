@@ -1,6 +1,6 @@
 # Slack Connect (Local Demo)
 
-A simple, local-only frontend simulation of a Slack messaging and scheduling application. It runs entirely in your browser — **no backend required**.
+A simple, local-only frontend simulation of a Slack messaging and scheduling application. It runs entirely in your browser — 
 
 ## 🚀 Features
 
